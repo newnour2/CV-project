@@ -49,6 +49,7 @@ The dataset used consists of hand gesture images representing numbers in sign la
 - **Labels** (number): A NumPy array of integer labels corresponding to the numbers (0-9).
 
 Ensure you split the dataset into training and testing sets before running the script.
+
 **datasete** link: https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset?select=X.npy
 
 ## Requirements
