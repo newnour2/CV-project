@@ -1,4 +1,4 @@
-# Sign Language Numbers Classifier
+i# Sign Language Numbers Classifier
 
 This project implements a comprehensive pipeline to classify hand gestures representing numbers in sign language. The program uses multiple machine learning and deep learning models to train, evaluate, and compare their performances on the dataset. The models used include:
 
@@ -50,7 +50,7 @@ The dataset used consists of hand gesture images representing numbers in sign la
 
 Ensure you split the dataset into training and testing sets before running the script.
 
-**datasete** link: https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset?select=X.npy
+**datasete** link: https://github.com/ardamavi/Sign-Language-Digits-Dataset
 
 ## Requirements
 
