@@ -45,10 +45,11 @@ This project implements a comprehensive pipeline to classify hand gestures repre
 
 The dataset used consists of hand gesture images representing numbers in sign language. Each image corresponds to one of the digits (0-9). The dataset must be formatted as follows:
 
-- **Inputs** (Images of sign language of a number): A NumPy array of images where each image is grayscale and normalized between 0 and 1.
+- **Inputs** (Images): A NumPy array of images where each image is grayscale and normalized between 0 and 1.
 - **Labels** (number): A NumPy array of integer labels corresponding to the numbers (0-9).
 
 Ensure you split the dataset into training and testing sets before running the script.
+**datasete** link: https://www.kaggle.com/datasets/ardamavi/sign-language-digits-dataset?select=X.npy
 
 ## Requirements
 
