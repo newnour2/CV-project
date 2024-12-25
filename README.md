@@ -1,4 +1,4 @@
-i# Sign Language Numbers Classifier
+# Sign Language Numbers Classifier
 
 This project implements a comprehensive pipeline to classify hand gestures representing numbers in sign language. The program uses multiple machine learning and deep learning models to train, evaluate, and compare their performances on the dataset. The models used include:
 
